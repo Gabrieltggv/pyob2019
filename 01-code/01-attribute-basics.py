@@ -263,7 +263,7 @@ class Pizza:
 # ## Lab #1: enhancing ``Coordinate``
 # 
 # 
-# Follow instructions at [labs/1/README.rst](https://github.com/ramalho/pyob/blob/master/labs/1/README.rst).
+# Follow instructions at [labs/1/README.rst](https://github.com/fluentpython/pyob2019/blob/master/labs/1/README.rst).
 
 # In[20]:
 

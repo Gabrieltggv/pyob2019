@@ -5,7 +5,7 @@
 
 # ## Camping budget
 # 
-# Source code for 3 variations: [examples/camping/](https://github.com/ramalho/pyob/tree/master/examples/camping)
+# Source code for 3 variations: [examples/camping/](https://github.com/fluentpython/pyob2019/tree/master/examples/camping)
 # 
 # <img src="img/camping-UML.png" width="600">
 # 
@@ -35,7 +35,7 @@
 # Charlie paid $   9.00
 # ```
 # 
-# > The [examples/camping/dataclass](https://github.com/ramalho/pyob/tree/master/examples/camping/dataclass) example shows the use of the `__post_init__` method in a dataclass.
+# > The [examples/camping/dataclass](https://github.com/fluentpython/pyob2019/tree/master/examples/camping/dataclass) example shows the use of the `__post_init__` method in a dataclass.
 # 
 # ### Budget class
 # 

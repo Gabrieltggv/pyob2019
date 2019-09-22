@@ -11,7 +11,7 @@
 
 # ### Code review
 
-# See source code at [/examples/finstory/](https://github.com/ramalho/pyob/tree/master/examples/finstory)
+# See source code at [/examples/finstory/](https://github.com/fluentpython/pyob2019/tree/master/examples/finstory)
 
 # ## Sidebar: floats & decimals
 
@@ -73,12 +73,12 @@ new_decimal(1.1)
 # 
 # ### Variations on a bingo machine
 # 
-# * [Bingo](https://github.com/ramalho/pyob/tree/master/examples/bingo): a simple bingo machine.
-# * [Tombola ABC](https://github.com/ramalho/pyob/blob/master/examples/tombola/tombola.py): Abstract Base Class for bingo machines.
-# * [BingoCage](https://github.com/ramalho/pyob/blob/master/examples/tombola/bingo.py): an implementation of ``Tombola`` using composition.
-# * [TumblingDrum](https://github.com/ramalho/pyob/blob/master/examples/tombola/drum.py): another implementation of ``Tombola`` using composition.
-# * [LotteryBlower](https://github.com/ramalho/pyob/blob/master/examples/tombola/lotto.py): yet another implementation of ``Tombola`` using composition.
-# * [Tombolist](https://github.com/ramalho/pyob/blob/master/examples/tombola/tombolist.py): a ``list`` subclass registered as a virtual subclass of ``Tombola``
+# * [Bingo](https://github.com/fluentpython/pyob2019/tree/master/examples/bingo): a simple bingo machine.
+# * [Tombola ABC](https://github.com/fluentpython/pyob2019/blob/master/examples/tombola/tombola.py): Abstract Base Class for bingo machines.
+# * [BingoCage](https://github.com/fluentpython/pyob2019/blob/master/examples/tombola/bingo.py): an implementation of ``Tombola`` using composition.
+# * [TumblingDrum](https://github.com/fluentpython/pyob2019/blob/master/examples/tombola/drum.py): another implementation of ``Tombola`` using composition.
+# * [LotteryBlower](https://github.com/fluentpython/pyob2019/blob/master/examples/tombola/lotto.py): yet another implementation of ``Tombola`` using composition.
+# * [Tombolist](https://github.com/fluentpython/pyob2019/blob/master/examples/tombola/tombolist.py): a ``list`` subclass registered as a virtual subclass of ``Tombola``
 
 # ## Key takeaways
 # 
